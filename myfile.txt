@@ -1,3 +1,7 @@
 Today is Monday!
+<<<<<<< HEAD
 
 It's Thursday now, I think.
+=======
+You're wrong, it's Wednesday.
+>>>>>>> branch1
